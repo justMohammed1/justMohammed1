@@ -1,61 +1,106 @@
-# MOHAMMED HAMOOD
+# 👋 Hi, I'm MOHAMMED HAMOOD
 
-Full-Stack Web Developer | Software Engineering 
+### 🚀 Full-Stack Web Developer | Software Engineering Student
 
-React • Node.js • MongoDB • JavaScript
+💻 Passionate about building modern web applications, interactive user experiences, and real-world full-stack projects.
+
+🌍 Based in Bahrain  
+⚡ MERN Stack Developer  
+🎯 Focused on Full-Stack Development & Modern UI/UX
+
+---
+
+# 🧠 About Me
+
+I'm a passionate software engineering student specializing in building responsive and scalable web applications using modern technologies.
+
+I enjoy creating full-stack projects, solving real-world problems, and continuously improving my development skills through hands-on projects and teamwork.
+
+Currently working on:
+- ⚽ FIFA World Cup 2026 Tracker
+- 🧩 Interactive JavaScript Games
+- 🌐 MERN Stack Applications
+- 🔥 Real-Time Web Applications
 
 ---
 
-## About Me
+# 🛠️ Toolbelt
 
-I'm a passionate software engineer specializing in building integrated web applications and modern user experiences.
-
-I am currently working on projects utilizing MERN technology and interactive web applications.
-
----
-## 🛠️ Toolbelt
-
-| Languages | Frameworks & Libraries | Tools & Platforms |
+| 💻 Languages | ⚙️ Frameworks & Libraries | 🧰 Tools & Platforms |
 |---|---|---|
-| HTML5, CSS3, JavaScript, Python | React,Express, Django | Git, GitHub, VS Code,Insomnia, Postman |
-| MongoDB, PostgreSQL | Socket.IO,EJS | Netlify, Render |
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- python
-- Django
-- PostgreSQL
+| HTML5, CSS3, JavaScript, Python | React.js, Express.js, Django | Git, GitHub, VS Code |
+| MongoDB, PostgreSQL | Socket.IO, EJS | Postman, Insomnia |
+| REST APIs, JSON | Node.js | Netlify, Render |
 
 ---
 
-## Featured Projects
+# 🚀 Tech Stack
 
-### ⚽ FIFA World Cup 2026 Tracker
-Full-stack MERN application for managing matches, teams, stadiums, and live updates.
+### 🌐 Frontend
+- ⚛️ React.js
+- 🎨 HTML5
+- 🎭 CSS3
+- ✨ JavaScript (ES6+)
 
-### 🧩 15 Puzzle Game
-Interactive sliding puzzle game with multi-level gameplay and timer system.
+### 🖥️ Backend
+- 🟢 Node.js
+- 🚂 Express.js
+- 🐍 Django
 
-### ❌ Tic Tac Toe Game
-Classic game built using HTML, CSS, and JavaScript.
+### 🗄️ Databases
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+
+### 🔧 Tools
+- 🐙 Git & GitHub
+- 📮 Postman
+- 💻 VS Code
+- 🚀 Netlify
+- ☁️ Render
 
 ---
 
-## Live Projects
+# 🌟 Featured Projects
 
-- 🎮 https://my-15puzzle.netlify.app
-- 🎮 https://tic-tac-tomh.netlify.app
+## ⚽ FIFA World Cup 2026 Tracker
+A full-stack MERN application for managing teams, matches, stadiums, events, and live updates with authentication and real-time features using Socket.IO.
 
 ---
 
-## Connect With Me
+## 🧩 15 Puzzle Game
+An interactive sliding puzzle game built with JavaScript featuring multiple levels, timer system, move tracking, and responsive gameplay.
 
-- [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGg09ufP8EHtAAAAZ3Ovhz4SftxO7FFErAIkVyYuLjzv1h5mA8MuzbwO_oHl1E1jQmfxy6mZVLNEFiYpnzu_HFPbAKnktaPUmymrvDaGF706w03S5aneB4kz90pJHXNC3a98ow=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohammed-mansoor-59661a3a8%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios)
-- [GitHub](https://github.com/justMohammed1)
+🔗 Live Demo:  
+🎮 https://my-15puzzle.netlify.app
+
+---
+
+## ❌ Tic Tac Toe Game
+A classic Tic Tac Toe game built using HTML, CSS, and JavaScript with turn-based gameplay, winner detection, and reset functionality.
+
+🔗 Live Demo:  
+🎮 https://tic-tac-tomh.netlify.app
+
+---
+
+# 📊 GitHub Stats
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=justMohammed1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justMohammed1&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+### 🔗 LinkedIn
+https://www.linkedin.com/in/mohammed-mansoor-59661a3a8
+
+### 💻 GitHub
+https://github.com/justMohammed1
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy turning ideas into real-world applications and continuously learning new technologies to improve my development journey 🚀
