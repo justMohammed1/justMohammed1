@@ -1,6 +1,6 @@
-# 👋 Hi, I'm MOHAMMED HAMOOD
+#  Hi, I'm MOHAMMED HAMOOD
 
-### 🚀 Full-Stack Web Developer | Software Engineering Student
+### 🚀 Full-Stack Web Developer | Software Engineering .
 
 💻 Passionate about building modern web applications, interactive user experiences, and real-world full-stack projects.
 
@@ -12,7 +12,7 @@
 
 # 🧠 About Me
 
-I'm a passionate software engineering student specializing in building responsive and scalable web applications using modern technologies.
+I'm a passionate software engineering  specializing in building responsive and scalable web applications using modern technologies.
 
 I enjoy creating full-stack projects, solving real-world problems, and continuously improving my development skills through hands-on projects and teamwork.
 
