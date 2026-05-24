@@ -83,14 +83,6 @@ A classic Tic Tac Toe game built using HTML, CSS, and JavaScript with turn-based
 
 ---
 
-# GitHub Stats
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=justMohammed1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justMohammed1&layout=compact&theme=tokyonight)
-
----
-
 #  Connect With Me
 
 ###  LinkedIn
@@ -103,4 +95,4 @@ https://github.com/justMohammed1
 
 #  Fun Fact
 
-I enjoy turning ideas into real-world applications and continuously learning new technologies to improve my development journey 🚀
+I enjoy turning ideas into real-world applications and continuously learning new technologies to improve my development journey 
