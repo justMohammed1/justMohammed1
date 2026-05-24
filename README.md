@@ -17,8 +17,8 @@ Currently working on projects using MERN technology and interactive web applicat
 
 | Languages | Frameworks & Libraries | Tools & Platforms |
 |---|---|---|
-| HTML5, CSS3, JavaScript, Python | React.js, Node.js, Express.js, Django | Git, GitHub, VS Code, Postman |
-| MongoDB, PostgreSQL, MySQL | Socket.IO, REST APIs | Netlify, Vercel, Render |
+| HTML5, CSS3, JavaScript, Python | React.js, Node.js, Express.js, Django | Git, GitHub, VS Code,Insomnia, Postman |
+| MongoDB, PostgreSQL, MySQL | Socket.IO, REST APIs | Netlify, Render |
 
 ## Tech Stack
 
