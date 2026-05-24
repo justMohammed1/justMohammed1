@@ -8,7 +8,7 @@ React • Node.js • MongoDB • JavaScript
 
 ## About Me
 
-A passionate junior software engineer focused on building integrated web applications and modern user experiences.
+A passionate  software engineer focused on building integrated web applications and modern user experiences.
 
 Currently working on projects using MERN technology and interactive web applications.
 
