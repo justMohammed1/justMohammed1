@@ -26,7 +26,7 @@ Currently working on:
 
 #  Toolbelt
 
-|  Languages |  Frameworks & Libraries |  Tools & Platforms |
+|  💻  Languages | ⚙️  Frameworks & Libraries |  🧰  Tools & Platforms |
 |---|---|---|
 | HTML5, CSS3, JavaScript, Python | React.js, Express.js, Django | Git, GitHub, VS Code |
 | MongoDB, PostgreSQL | Socket.IO, EJS | Postman, Insomnia |
@@ -47,11 +47,11 @@ Currently working on:
 -  Express.js
 -  Django
 
-###  Databases
+###  🗄️ Databases
 -  MongoDB
 -  PostgreSQL
 
-###  Tools
+### 🔧 Tools
 -  Git & GitHub
 -  Postman
 -  VS Code
