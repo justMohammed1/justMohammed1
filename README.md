@@ -87,10 +87,8 @@ A classic Tic Tac Toe game built using HTML, CSS, and JavaScript with turn-based
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-mansoor-59661a3a8)
  💻 [GitHub](https://github.com/justMohammed1)
- 📧 mohammedusa84@gmail.com
+ 📧 [Email](mohammedusa84@gmail.com)
 
-###  GitHub
-https://github.com/justMohammed1
 
 ---
 
