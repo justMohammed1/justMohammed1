@@ -1,4 +1,3 @@
-#  Hi, I'm MOHAMMED HAMOOD
 
 ###  Full-Stack Web Developer | Software Engineering .
 
@@ -36,13 +35,13 @@ Currently working on:
 
 #  Tech Stack
 
-###  Frontend
+### 🌐 Frontend
 -  React.js
 -  HTML5
 -  CSS3
 -  JavaScript (ES6+)
 
-###  Backend
+### 🖥️ Backend
 -  Node.js
 -  Express.js
 -  Django
