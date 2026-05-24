@@ -4,8 +4,7 @@
 ###  Full-Stack Web Developer | Software Engineering .
 
  Passionate about building modern web applications, interactive user experiences, and real-world full-stack projects.
-
- Based in Bahrain  
+ 
  MERN Stack Developer  
  Focused on Full-Stack Development & Modern UI/UX
 
